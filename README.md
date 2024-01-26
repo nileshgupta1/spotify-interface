@@ -1,4 +1,14 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+![Screenshot (870)](https://github.com/nileshgupta1/spotify-interface/assets/117779500/285418bf-9b9d-4662-b85a-603ab666fd2e)
+
+## Authorization
+![Screenshot (871)](https://github.com/nileshgupta1/spotify-interface/assets/117779500/1f30d17d-63be-4969-9357-d320c19096c7)
+![Screenshot (872)](https://github.com/nileshgupta1/spotify-interface/assets/117779500/c1716ff9-3e68-471d-b96f-e47339e954e2)
+
+
+
+
+#### This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
